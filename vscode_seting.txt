@@ -1,0 +1,44 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "workbench.startupEditor": "none",
+  "editor.inlineSuggest.enabled": true,
+  "emmet.excludeLanguages": [
+    "markdown"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.formatOnPaste": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDelete": false,
+  "editor.wordWrap": "on",
+  "editor.cursorBlinking": "expand",
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#ff00ea",
+    "terminalCursor.foreground": "#ff00d4",
+    "terminal.ansiBrightYellow": "#00ff40",
+  },
+  "editor.cursorWidth": 3,
+  "terminal.integrated.cursorWidth": 1,
+  "editor.minimap.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "Learn with Sumit - Peace of the eye - Dracula version",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 14,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false
+  },
+  "redhat.telemetry.enabled": true,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.formatOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  // "editor.fontFamily": "'Cascadia Code'",
+  // "editor.fontLigatures": true
+}
